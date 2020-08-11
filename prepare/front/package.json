@@ -9,8 +9,8 @@
   "author": "jongho",
   "license": "ISC",
   "dependencies": {
-    "@ant-design/icons": "^4.2.2",
-    "antd": "^4.5.3",
+    "@ant-design/icons": "^4.2.1",
+    "antd": "^4.3.1",
     "next": "^9.5.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
