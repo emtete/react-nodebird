@@ -3,7 +3,7 @@ import Head from "next/head";
 import styled from "styled-components";
 import { useCallback, useState } from "react";
 import { Form, Input, Checkbox, Button } from "antd";
-import useInput from "../hook/useInput";
+import useInput from "../hooks/useInput";
 
 const ErrorMessage = styled.div`
   color: red;
